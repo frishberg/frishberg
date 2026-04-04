@@ -19,8 +19,6 @@
 
 ### 📌 Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=frishberg&repo=Chess-Analytica&theme=react)](https://github.com/frishberg/Chess-Analytica)
-
 ![PyPI Downloads](https://img.shields.io/pepy/dt/chess-analytica?label=chess-analytica%20total%20downloads&style=flat-square)
 
 ---

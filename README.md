@@ -8,16 +8,9 @@
 - 🏫 Studying Computer Science and Economics at the University of Chicago
 - 🔬 Research Assistant at UChicago's Department of Economics, working with Nobel Laureate James Heckman
 - 💼 Previously at Third Point ($22B AUM) & Fira (YC W25)
-- 📫 Reach me at: [frishberg@uchicago.edu](mailto:frishberg@uchicago.edu)
+- 📫 Reach me at: [aron@gatsbyrobotics.com](mailto:aron@gatsbyrobotics.com)
 - 🌐 Check out my website: [aronfrishberg.com](http://aronfrishberg.com)
 - ⚡ Fun fact: I love hummus :)
-
-### 📊 GitHub Stats
-
-<a href="https://github.com/frishberg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frishberg&show_icons=true&theme=react&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frishberg&layout=compact&langs_count=8&theme=react&hide_border=true"/>
-</a>
 
 ### 🤝 Connect with me
 
@@ -27,7 +20,8 @@
 ### 📌 Pinned Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=frishberg&repo=Chess-Analytica&theme=react)](https://github.com/frishberg/Chess-Analytica)
-![PyPI Downloads]([https://img.shields.io/pypi/dm/chess-analytica?label=chess-analytica%20downloads&style=flat-square](https://img.shields.io/pepy/dt/chess-analytica?label=chess-analytica%20total%20downloads&style=flat-square)
+
+![PyPI Downloads](https://img.shields.io/pepy/dt/chess-analytica?label=chess-analytica%20total%20downloads&style=flat-square)
 
 ---
 

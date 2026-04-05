@@ -1,6 +1,6 @@
 # Hi there, I'm Aron Frishberg 👋
 
-## 🤖 Founder @ Gatsby Robotics | 💻 Software Engineer
+## 🤖 Founder @ Gatsby Robotics
 
 ### 🚀 Quick Facts
 

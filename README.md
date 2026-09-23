@@ -1,14 +1,14 @@
 # Hi there, I'm Aron Frishberg 👋
 
-## 🤖 Founder @ Gatsby Robotics
+## 🤖 ex-Founder @ Gatsby Robotics, senior @ the University of Chicago
 
 ### 🚀 Quick Facts
 
-- 🤖 Building [Gatsby Robotics](https://gatsbyrobotics.com) — on-demand humanoid robots that clean your apartment
+- 🤖 Built [Gatsby Robotics](https://gatsbyrobotics.com) — on-demand humanoid robots that clean your apartment
 - 🏫 Studying Computer Science and Economics at the University of Chicago
 - 🔬 Research Assistant at UChicago's Department of Economics, working with Nobel Laureate James Heckman
 - 💼 Previously at Third Point ($22B AUM) & Fira (YC W25)
-- 📫 Reach me at: [aron@gatsbyrobotics.com](mailto:aron@gatsbyrobotics.com)
+- 📫 Reach me at: [frishberg@uchicago.edu](mailto:frishberg@uchicago.edu)
 - 🌐 Check out my website: [aronfrishberg.com](http://aronfrishberg.com)
 - ⚡ Fun fact: I love hummus :)
 
